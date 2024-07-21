@@ -6,7 +6,7 @@
 Check out the live demo [↗️](https://mohit-kucheriya.github.io/Awwward-Winning_Website_with_GSAP/)
 
 ## Screenshot
-![Screenshot 1](https://github.com/Mohit-Kucheriya/API_Javascript_Projects_1/blob/9ae1963d9abb400bf4ae697fd7b2c15186d82ea4/Screenshot/1.png)
+![Screenshot 1](https://github.com/Mohit-Kucheriya/Awwward-Winning_Website_with_GSAP/blob/9d0367b7085938decdd13644a583786558a946a4/FamilyIndustries.png)
 
 ## Features
 
